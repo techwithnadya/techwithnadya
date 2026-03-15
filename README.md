@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Nadya 👋
 
-<!--
-**techwithnadya/techwithnadya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning **Cloud Engineering** and building hands-on AWS projects.
 
-Here are some ideas to get you started:
+## Current Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS EC2
+- Linux
+- Nginx
+- DNS
+- HTTPS
+- Git & GitHub
+
+## Projects
+
+### AWS EC2 Nginx Website
+A website deployed on an EC2 server using Nginx.
+
+🔗 Live website: 
+https://techwithnadya.com
+
+📁 Project repository: 
+https://github.com/techwithnadya/aws-ec2-nginx-portfolio
+
+## Currently Learning
+
+- AWS S3
+- CloudFront CDN
+- Infrastructure architecture
+
+## Connect with me
+
+LinkedIn: 
+www.linkedin.com/in/nadya-ikhwan
+
+Portfolio: 
+https://techwithnadya.com
